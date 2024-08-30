@@ -27,25 +27,6 @@ Importante resaltar que esse projeto considera um único usuário, assim não é
    - O usuário deve escolher a operação desejada digitando o número correspondente.
    - O sistema continuará a operar até que o usuário escolha a opção `0` para sair.
 
-## Exemplo de Uso
-
-```plaintext
-Seja bem-vindo.
-        [1] - SACAR
-        [2] - DEPOSITAR
-        [3] - EXTRATO
-        [0] - SAIR
-Qual operação deseja realizar? 2
-Qual valor deseja depositar? 500
-Você depositou 500. Saldo restante: 1500
-
-Qual operação deseja realizar? 1
-Qual valor deseja sacar? 300
-Você sacou 300. Saldo restante: 1200
-
-Qual operação deseja realizar? 3
-Saldo em conta = 1200
-```
 
 ## Requisitos
 
